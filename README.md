@@ -35,5 +35,5 @@
 | [性价比较高的VPS推荐](https://www.shluqu.cn/sample-page "性价比较高的VPS推荐")  | [香港大带宽cn2服务器](https://www.shluqu.cn/18.html "香港大带宽cn2服务器")  |  [比较12家优秀的wordpress网站托管平台](https://www.shluqu.cn/2784.html "比较12家优秀的wordpress网站托管平台") |  [2022年便宜的云虚拟机推荐](https://www.shluqu.cn/16.html "2022年便宜的云虚拟机推荐") |
 
 
-![自由仓库](https://download.shluqu.cn/wp-content/uploads/2022/07/20220730160634956.png "自由仓库")
+![自由仓库](https://www.libredepot.top/wp-content/uploads/2025/06/38.png "自由仓库")
 
