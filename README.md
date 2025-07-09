@@ -1,4 +1,4 @@
-# 自由仓库 [ www.libredepot.top](https://www.libredepot.top " www.libredepot.top")
+# 自由仓库 <a href="https://www.libredepot.top" target="_blank">www.libredepot.top</a>
 豆丁博客主要分享云服务器、vps主机、云虚拟机和网络托管便宜方案，博客收录了49家全球vps主机测评及选购方案!
 
 #### 香港服务器推荐
