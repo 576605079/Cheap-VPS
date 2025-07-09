@@ -8,7 +8,7 @@
 | 商家 | 服务器 | CPU核心 | 内存 | 存储 | 带宽 | 月流量 | 月报价 |  链接 |
 |  :------------  |  :------------  |  :------------  |  :------------  |  :------------  |  :------------  |  :------------  |   :------------  |   :------------  |
 | 阿里云  | 香港精品网络  | 1核  | 1G  | 25G  | 30Mbps   | 1T   | 24元  | [链接](https://www.aliyun.com/minisite/goods?source=5176.29345612&userCode=lsfy2wgh "链接")  | 
-| 腾讯云  | 香港精品网络  | 1核  | 1G  | 25G  | 30Mbps  | 1T  | 24元  | [链接](https://www.shluqu.cn/go/aliyun.html "链接") | 
+| 腾讯云  | 香港精品网络  | 1核  | 1G  | 25G  | 30Mbps  | 1T  | 24元  | [链接](https://curl.qcloud.com/lGwJ6IBG "链接") | 
 | 恒创科技 | 香港CN2 | 1核 | 1G  | 50G  | 2 Mbps  | 无限  | 38元 | [链接](http://my.henghost.com/aff.php?aff=7209 "链接") | 
 | UCloud<br>优刻得   | 香港线路  | 1核  | 1G  | 40G  | 1 Mbps  | 无限  | 51元  | [链接](https://www.ucloud.cn/ "链接") | 
 | 快云科技 | 香港CN2 | 1核 | 1G | 10G<br>SSD | 20 Mbps | 200GB | 29元 | [链接](https://www.sukeyun.com/aff/CJKWVOXC "链接") | 
